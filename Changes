@@ -1,0 +1,18 @@
+Revision history for Perl extension Net::RMI
+--------------------------------------------
+
+June 12 1999 - 0.02
+
+	- scalars can now be just scalars, and no longer
+		need to be scalar references.
+	- added $Net::RMI::Server::DEBUG, when set to 1
+		more output is displayed.
+	- added $Net::RMI::Client::DEBUG, when set to 1
+		more output is displayed (currently just
+		a placeholder).
+	- documentation corrections
+	- pod fixes
+
+June 9 1999 - 0.01
+	- original version
+

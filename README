@@ -1,0 +1,35 @@
+This is Net::RMI, a perl-specific package for Remote Method Invocation.
+
+
+!!! EARLY ALPHA WARNING !!!
+
+This package is hot-off-the-keyboard and has not be tested in any
+significant fashion. Please contact me with all comments, suggestions,
+and bug reports. This is EARLY ALPHA software.
+
+
+See the INSTALL file for installation notes.
+
+Currently I am using port 6902. This was just an arbitrary choice.
+If anyone actually decides to use this module, we will have to get
+a more "official" port number. The port number is set at:
+
+	$Net::RMI::PORT
+
+If anyone actually tries to use this, please drop me a line!
+
+I will be putting more info up at www.pandich.com soon.
+
+
+
+AUTHOR
+
+Stephen Pandich
+pandich@yahoo.com
+
+
+-------------------------------------------------------------
+Copyright (c) 1999 Stephen Pandich. All rights reserved.
+
+This package is free software; you can redistribute it and/or
+modify it under the same terms as Perl itself.
